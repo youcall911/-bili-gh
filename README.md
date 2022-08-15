@@ -12,5 +12,6 @@ https://www.bilibili.com/video/BV1WT411j7hp
 
 03
 参数化键盘
-https://www.behance.net/gallery/69907889/Thinkpad-Concept-Design
 This is a gh program for generating keyboard layout.
+https://www.bilibili.com/video/bv1kt411c7fs
+https://www.behance.net/gallery/69907889/Thinkpad-Concept-Design
