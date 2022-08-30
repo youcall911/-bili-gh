@@ -15,3 +15,11 @@ https://www.bilibili.com/video/BV1WT411j7hp
 This is a gh program for generating keyboard layout.
 https://www.bilibili.com/video/bv1kt411c7fs
 https://www.behance.net/gallery/69907889/Thinkpad-Concept-Design
+
+04
+高级voronoi，讲解与应用（2d）
+https://www.bilibili.com/video/BV1ta411R7jr
+请注意，包括三个文件：
+voronoi 2d relax anemone Constrained anyshape
+voronoi 2d fast relax kangaroo Constrained anyshape
+螺旋 voronoi trigger 动画
