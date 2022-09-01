@@ -23,3 +23,7 @@ https://www.bilibili.com/video/BV1ta411R7jr
 voronoi 2d relax anemone Constrained anyshape
 voronoi 2d fast relax kangaroo Constrained anyshape
 螺旋 voronoi trigger 动画
+
+05
+自行车链条，grasshopper参数化
+https://www.bilibili.com/video/BV1MT411g7e4
